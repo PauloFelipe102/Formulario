@@ -1,2 +1,2 @@
 # Formulario
- Formulario feito em HTML, CSS, JAVASCRIPT, MYSQL, PHP
+ Formulário feito em HTML, CSS, JAVASCRIPT, MYSQL e PHP.
